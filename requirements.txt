@@ -4,3 +4,6 @@ requests
 numpy
 seaborn
 matplotlib
+scipy
+scikit-learn
+plotly
